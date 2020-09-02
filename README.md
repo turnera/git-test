@@ -1,1 +1,1 @@
-"# git-test" 
+"#example git project" 
